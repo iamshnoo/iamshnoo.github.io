@@ -34,11 +34,13 @@ a,
 a:visited {
   color: #e34234;
   transition: 0.25s;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus {
   color: #26b91d;
+  text-decoration: none;
 }
 
 .blocktext_h2 {
