@@ -6,7 +6,7 @@
 [![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square&logo=travis-ci&color=3EAAAF)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
 \[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
- 
+
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use and share the source code anywhere you like.*
@@ -17,12 +17,12 @@
 - Jekyll theme, deploy automatically by GitHub pages
 - Basic Search Engine Optimization
 - Mobile friendly
-- Support Markdown 
+- Support Markdown
 - Support dark mode
 
 ## Usage
 
-### Using on GitHub 
+### Using on GitHub
 
 To use this theme, add the following to your repository's `_config.yml`:
 
@@ -42,7 +42,7 @@ Then you need to enable the GitHub pages for that repository following the steps
 
 Add a `CNAME` DNS record to your domain as follows:
 ```
-Host: whatever you want. e.g., "www" 
+Host: whatever you want. e.g., "www"
 Target / Canonical name: your-username.github.io.
 TTL: 10 min
 ```
@@ -95,7 +95,7 @@ google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+canonical:
 remote_theme: yaoyao-liu/minimal-light
   ```
 ### Editing `index.md`
