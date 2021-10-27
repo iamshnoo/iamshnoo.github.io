@@ -102,3 +102,8 @@ that is not yet in this list.
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV. -->
+
+## Teaching
+
+- Mentored (TA) 100+ students for [Udacity's Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
+  Graded 250+ course projects for the same.
