@@ -13,7 +13,8 @@ with [mlpack](https://github.com/mlpack) as a
 [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
 on research regarding continuous collision detection. I even have a couple of
 papers with researchers from MIT and University of Toronto regarding
-applications of deep learning methods to clinical procedures that help in early detection of cancer.
+applications of deep learning methods to clinical procedures that help in
+reducing chances of post-colonoscopy colorectal cancer.
 
 I am applying for grad school for Fall 2022 and would like to work on any of my
 broad interests outlined below. I am open to working on other topics as long as
