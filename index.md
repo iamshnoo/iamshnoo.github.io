@@ -56,15 +56,9 @@ that is not yet in this list.
   <br>
   Computational Intelligence in Pattern Recognition. **CIPR 2021**.
   <br>
-  [Link](https://link.springer.com/chapter/10.1007/978-981-16-2543-5_56)
-
-- **Automated Detection of Bowel Preparation Adequacy with Deep Convolutional Neural Networks**
-  <br>
-  DJ Low, Z Hong, **A Mukherjee**, S Jugnundan, SC Grover
-  <br>
-  Digestive Disease Week. **DDW 2021**.
-  <br>
-  [Link](https://www.gastrojournal.org/article/S0016-5085(21)01614-0/pdf)
+  [[Publication
+  Link](https://link.springer.com/chapter/10.1007/978-981-16-2543-5_56)]
+  [[Project website](https://iamshnoo.github.io/covid-tweets-political-or-not/)]
 
 - **Automated Detection of Cecal Intubation With Variable Bowel Preparation Using a Deep Convolutional Neural Network**
   <br>
@@ -72,7 +66,19 @@ that is not yet in this list.
   <br>
   Digestive Disease Week. **DDW 2021**.
   <br>
-  [Link](https://www.gastrojournal.org/article/S0016-5085(21)01615-2/pdf)
+  [[Publication
+  Link](https://www.gastrojournal.org/article/S0016-5085(21)01615-2/pdf)]
+  [[Project Website](https://iamshnoo.github.io/endox-ddw-2021/)]
+
+- **Automated Detection of Bowel Preparation Adequacy with Deep Convolutional Neural Networks**
+  <br>
+  DJ Low, Z Hong, **A Mukherjee**, S Jugnundan, SC Grover
+  <br>
+  Digestive Disease Week. **DDW 2021**.
+  <br>
+  [[Publication Link](https://www.gastrojournal.org/article/S0016-5085(21)01614-0/pdf)]
+  [[Project Website](https://iamshnoo.github.io/endox-ddw-2021/)]
+
 
 <!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
