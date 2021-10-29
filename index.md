@@ -9,7 +9,7 @@ Currently, I am working on data science projects at
 [Wells Fargo](https://www.wellsfargo.com) as a graduate analyst. I have previously
 [worked](https://github.com/iamshnoo/mlpack-testing)
 with [mlpack](https://github.com/mlpack) as a
-[Google Summer of Code](https://summerofcode.withgoogle.com/) student. I have also worked with the
+[Google Summer of Code](https://summerofcode.withgoogle.com/) student. I have also [worked](Continuous_Collision_Detection_in_CollDet.pdf) with the
 [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
 on research regarding continuous collision detection. I even have a couple of
 papers with researchers from MIT and University of Toronto regarding
