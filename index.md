@@ -68,7 +68,7 @@ that is not yet in this list.
   Digestive Disease Week. **DDW 2021**.
   <br>
   [[Publication
-  Link](https://www.gastrojournal.org/article/S0016-5085(21)01615-2/pdf)]
+  Link](<https://www.gastrojournal.org/article/S0016-5085(21)01615-2/pdf>)]
   [[Project Website](https://iamshnoo.github.io/endox-ddw-2021/)]
 
 - **Automated Detection of Bowel Preparation Adequacy with Deep Convolutional Neural Networks**
@@ -77,9 +77,8 @@ that is not yet in this list.
   <br>
   Digestive Disease Week. **DDW 2021**.
   <br>
-  [[Publication Link](https://www.gastrojournal.org/article/S0016-5085(21)01614-0/pdf)]
+  [[Publication Link](<https://www.gastrojournal.org/article/S0016-5085(21)01614-0/pdf>)]
   [[Project Website](https://iamshnoo.github.io/endox-ddw-2021/)]
-
 
 <!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
