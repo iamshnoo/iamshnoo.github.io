@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I recently completed my Bachelor's Degree in Computer Science from [IIEST Shibpur](https://www.iiests.ac.in).
-Currently, I am working on data science and software development projects at
+Currently, I am working on data science projects at
 [Wells Fargo](https://www.wellsfargo.com) as a graduate analyst. I have previously
 [worked](https://github.com/iamshnoo/mlpack-testing)
 with [mlpack](https://github.com/mlpack) as a
