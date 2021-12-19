@@ -26,9 +26,9 @@ These are just topics that I have previously explored to some extent. Obviously
 I haven't explored everything yet, and I might just be interested in something
 that is not yet in this list.
 
-- **Computer Vision:** image to image translation, video understanding
-- **Natural Language Processing:** unsupervised classification
-- **Broad topics:** healthcare, explainability, fairness
+- AI for healthcare, medical image analysis, Medical record understanding, etc.
+- Computational social science, digital humanities
+- Fairness and explainability for AI
 
 ## News
 
@@ -113,3 +113,22 @@ that is not yet in this list.
 
 - Mentored (TA) 100+ students for [Udacity's Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
   Graded 250+ course projects for the same.
+
+## Relevant undergrad coursework
+
+- [NLP Lab](https://github.com/iamshnoo/NLP-Lab)
+- [ML Lab](https://github.com/iamshnoo/ML-Lab)
+- [AI Lab](https://github.com/iamshnoo/AI-Lab)
+- [Compiler Lab](https://github.com/iamshnoo/Compiler-Lab)
+- [Shelly - a simple shell written in C](https://github.com/iamshnoo/shelly)
+
+## Blogs
+
+- I have written a few [blogs](https://iamshnoo.github.io/blog/), mostly during my
+  period as a GSoC student. I always love to hear feedback on my writing. Reach
+  out to me on twitter or anywhere really, and I would love to talk on anything interesting.
+
+<div align="center">
+<img src="blog.png" height="50%" width="50%">
+<p></p>
+</div>
