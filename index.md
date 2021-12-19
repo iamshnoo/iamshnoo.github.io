@@ -127,8 +127,3 @@ that is not yet in this list.
 - I have written a few [blogs](https://iamshnoo.github.io/blog/), mostly during my
   period as a GSoC student. I always love to hear feedback on my writing. Reach
   out to me on twitter or anywhere really, and I would love to talk on anything interesting.
-
-<div align="center">
-<img src="blog.png" alt="Screenshot of my blog page." height="50%" width="50%">
-<p></p>
-</div>
