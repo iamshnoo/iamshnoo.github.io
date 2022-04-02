@@ -2,53 +2,72 @@
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me -->
 
-I recently completed my Bachelor's Degree in Computer Science from [IIEST Shibpur](https://www.iiests.ac.in).
-Currently, I am working on data science projects at
-[Wells Fargo](https://www.wellsfargo.com) as a graduate analyst. I have previously
+I completed my Bachelor's Degree in Computer Science from
+[IIEST Shibpur](https://www.iiests.ac.in) in 2021. Then I spent the next year or
+so working in a data science/ software development role at
+[Wells Fargo](https://www.wellsfargo.com). I have previously
 [worked](https://github.com/iamshnoo/mlpack-testing)
 with [mlpack](https://github.com/mlpack) as a
-[Google Summer of Code](https://summerofcode.withgoogle.com/) student. I have also [worked](Continuous_Collision_Detection_in_CollDet.pdf) with the
+[Google Summer of Code](https://summerofcode.withgoogle.com/) 2020 student. I have also [worked](Continuous_Collision_Detection_in_CollDet.pdf) with the
 [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
 on research regarding continuous collision detection. I even have a couple of
 papers with researchers from MIT and University of Toronto regarding
 applications of deep learning methods to clinical procedures that help in
 reducing chances of post-colonoscopy colorectal cancer.
 
-I am applying for grad school for Fall 2022 and would like to work on any of my
-broad interests outlined below. I am open to working on other topics as long as
-it is interesting :)
+I will be starting grad school in Fall 2022 and my research interests lie in the
+following topics!
+
+---
 
 ## Research Interests
 
-These are just topics that I have previously explored to some extent. Obviously
-I haven't explored everything yet, and I might just be interested in something
-that is not yet in this list.
+Disclaimer: These are just topics that I have previously explored to some
+extent. Obviously I haven't explored everything yet, and I might just be
+interested in something that is not yet in this list.
 
-- AI for healthcare, medical image analysis, Medical record understanding, etc.
-- Computational social science, digital humanities
-- Fairness and explainability for AI
+- Fairness, Interpretability and Explainability for language models
+- NLP tasks for low resourced languages
+- Code generation
+- AI for healthcare
+
+---
 
 ## News
 
+- **[Mar. 2022]** Reviewed 2 papers for the 3rd edition of the
+  [AfricaNLP](https://africanlp.masakhane.io) workshop at ICLR 2022 📖
+- **[Mar. 2022]** Attended my undergrad convocation. Graduated top of my class 🥇
 - **[Sep. 2021]** Attended a virtual
   [workshop](https://sites.astro.caltech.edu/xai4s/program.html) on Explainable
-  AI organized by Caltech. Met Katie Bouman and Cynthia Rudin :)
-- **[Sep. 2021]** Got cited for the first time ever!!
-- **[Jul. 2021]** Started working at Wells Fargo.
-- **[Jun. 2021]** Graduated top of my class.
-- **[Jan. 2021]** Submitted a conference paper describing my final year project at
-  [Computational Intelligence in Pattern Recognition(CIPR)](http://www.cipr.in) 2021.
-- **[Dec. 2020]** Submitted 2 abstract papers at [Digestive Disease Week(DDW)](https://ddw.org) 2021.
+  AI organized by Caltech. Met Katie Bouman and Cynthia Rudin 🥺
+- **[Sep. 2021]** Got cited for the first time ever!! 🎉
+- **[Jul. 2021]** Started working at Wells Fargo. 💻
+- **[Jan. 2021]** Submitted a conference paper describing my undergrad final
+  year project at
+  [Computational Intelligence in Pattern Recognition(CIPR)](http://www.cipr.in) 2021. 📜
+- **[Dec. 2020]** Submitted 2 abstract papers at [Digestive Disease
+  Week(DDW)](https://ddw.org) 2021. 📜
 - **[Aug. 2020]** Successfully completed GSoC. Wrote many
-  [blogs](https://iamshnoo.github.io/blog/) which people liked :)
-- **[May. 2020]** Got selected to participate in Google Summer of Code(GSoC) 2020.
+  [blogs](https://iamshnoo.github.io/blog/) which people liked 🤓
+- **[May. 2020]** Got selected to participate in Google Summer of Code(GSoC) 2020. 🏆
 - **[Mar. 2020]** Received the DAAD WISE scholarship. One of 130 students from
-  all over India.
+  all over India. 🏆
 - **[Feb. 2020]** Received the prestigious IAS (Indian Academy of Sciences)
-  Summer Research Fellowship.
+  Summer Research Fellowship. 🏆
 
+---
+## Academic Service
+
+<!-- - Organizing
+- Volunteering
+- Mentoring -->
+- Reviewing
+  - AfricaNLP 2022
+
+---
 ## Publications
 
 - **A Study of Public Sentiment and Influence of Politics in COVID-19 Related Tweets**
@@ -109,11 +128,7 @@ that is not yet in this list.
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV. -->
 
-## Teaching
-
-- Mentored (TA) 100+ students for [Udacity's Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
-  Graded 250+ course projects for the same.
-
+<!--
 ## Relevant undergrad coursework
 
 - [NLP Lab](https://github.com/iamshnoo/NLP-Lab)
@@ -127,3 +142,4 @@ that is not yet in this list.
 - I have written a few [blogs](https://iamshnoo.github.io/blog/), mostly during my
   period as a GSoC student. I always love to hear feedback on my writing. Reach
   out to me on twitter or anywhere really, and I would love to talk on anything interesting.
+--- -->
