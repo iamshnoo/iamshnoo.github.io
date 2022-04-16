@@ -17,8 +17,8 @@ papers with researchers from MIT and University of Toronto regarding
 applications of deep learning methods to clinical procedures that help in
 reducing chances of post-colonoscopy colorectal cancer.
 
-I will be starting grad school in Fall 2022 and my research interests lie in the
-following topics!
+I will be starting my PhD in Fall 2022 with the [NLP group](https://nlp.cs.gmu.edu) at GMU
+and my research interests lie in the following topics!
 
 ---
 
@@ -30,6 +30,7 @@ interested in something that is not yet in this list.
 
 - Fairness, Interpretability and Explainability for language models
 - NLP tasks for low resourced languages
+- NLP for social good applications
 - Code generation
 - AI for healthcare
 
@@ -65,7 +66,7 @@ interested in something that is not yet in this list.
 - Volunteering
 - Mentoring -->
 - Reviewing
-  - AfricaNLP 2022
+  - AfricaNLP 2022 workshop (ICLR)
 
 ---
 ## Publications
