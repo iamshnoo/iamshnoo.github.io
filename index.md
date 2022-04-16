@@ -17,7 +17,7 @@ papers with researchers from MIT and University of Toronto regarding
 applications of deep learning methods to clinical procedures that help in
 reducing chances of post-colonoscopy colorectal cancer.
 
-I will be starting my PhD in Fall 2022 with the [NLP group](https://nlp.cs.gmu.edu) at GMU
+I will be starting my PhD in Fall 2022 with the NLP group at GMU
 and my research interests lie in the following topics!
 
 ---
