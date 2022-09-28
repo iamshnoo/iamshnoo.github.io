@@ -138,9 +138,9 @@ interested in something that is not yet in this list.
 - [Compiler Lab](https://github.com/iamshnoo/Compiler-Lab)
 - [Shelly - a simple shell written in C](https://github.com/iamshnoo/shelly)
 
+--- -->
 ## Blogs
 
 - I have written a few [blogs](https://iamshnoo.github.io/blog/), mostly during my
   period as a GSoC student. I always love to hear feedback on my writing. Reach
   out to me on twitter or anywhere really, and I would love to talk on anything interesting.
---- -->
