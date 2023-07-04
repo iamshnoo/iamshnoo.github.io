@@ -9,13 +9,15 @@ I completed my Bachelor's Degree in Computer Science from
 so working in a data science/ software development role at
 [Wells Fargo](https://www.wellsfargo.com). I have previously
 [worked](https://github.com/iamshnoo/mlpack-testing)
-with [mlpack](https://github.com/mlpack) as a
-[Google Summer of Code](https://summerofcode.withgoogle.com/) 2020 student. I have also [worked](Continuous_Collision_Detection_in_CollDet.pdf) with the
+with the [PAIR team at Google](https://github.com/PAIR-code/lit) and
+[mlpack](https://github.com/mlpack) as part of the
+[Google Summer of Code](https://summerofcode.withgoogle.com/) program. I have also [worked](Continuous_Collision_Detection_in_CollDet.pdf) with the
 [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
 on research regarding continuous collision detection. I even have a couple of
 papers with researchers from MIT and University of Toronto regarding
 applications of deep learning methods to clinical procedures that help in
-reducing chances of post-colonoscopy colorectal cancer.
+reducing chances of post-colonoscopy colorectal cancer. For an updated list on
+my publications, please refer to my [Google scholar profile](https://scholar.google.com/citations?hl=en&user=3849YpIAAAAJ).
 
 I have started my PhD in Fall 2022 with the NLP group at GMU
 and my research interests lie in the following topics!
@@ -24,20 +26,24 @@ and my research interests lie in the following topics!
 
 ## Research Interests
 
-Disclaimer: These are just topics that I have previously explored to some
-extent. Obviously I haven't explored everything yet, and I might just be
+Disclaimer: I am new to research in NLP and might just be
 interested in something that is not yet in this list.
 
 - Fairness, Interpretability and Explainability for language models
-- NLP tasks for low resourced languages
-- NLP for social good applications
-- Code generation
+- Low resource NLP
+- Multilingual NLP applications
+- Adversarial attacks against language models and their defenses
 - AI for healthcare
 
 ---
 
 ## News
 
+- **[July 2023]** Published a student paper at the [AIES 2023](https://www.aies-conference.com/2023/) conference 📜
+- **[June 2023]** Reviewed a paper for [AIES 2023](https://www.aies-conference.com/2023/)
+- **[June 2023]** Completed coursework in advanced NLP with a grade of A+ 📚
+- **[Mar. 2022]** Reviewed 3 papers for the
+  [AfricaNLP](https://africanlp.masakhane.io) workshop at ICLR 2023 📖
 - **[Mar. 2022]** Reviewed 2 papers for the 3rd edition of the
   [AfricaNLP](https://africanlp.masakhane.io) workshop at ICLR 2022 📖
 - **[Mar. 2022]** Attended my undergrad convocation. Graduated top of my class 🥇
@@ -51,9 +57,9 @@ interested in something that is not yet in this list.
   [Computational Intelligence in Pattern Recognition(CIPR)](http://www.cipr.in) 2021. 📜
 - **[Dec. 2020]** Submitted 2 abstract papers at [Digestive Disease
   Week(DDW)](https://ddw.org) 2021. 📜
-- **[Aug. 2020]** Successfully completed GSoC. Wrote many
-  [blogs](https://iamshnoo.github.io/blog/) which people liked 🤓
-- **[May. 2020]** Got selected to participate in Google Summer of Code(GSoC) 2020. 🏆
+<!-- - **[Aug. 2020]** Successfully completed GSoC. Wrote many
+  [blogs](https://iamshnoo.github.io/blog/) which people liked 🤓 -->
+<!-- - **[May. 2020]** Got selected to participate in Google Summer of Code(GSoC) 2020. 🏆 -->
 - **[Mar. 2020]** Received the DAAD WISE scholarship. One of 130 students from
   all over India. 🏆
 - **[Feb. 2020]** Received the prestigious IAS (Indian Academy of Sciences)
@@ -66,10 +72,14 @@ interested in something that is not yet in this list.
 - Volunteering
 - Mentoring -->
 - Reviewing
+  - AIES 2023
+  - AfricaNLP 2023 workshop (ICLR)
   - AfricaNLP 2022 workshop (ICLR)
 
 ---
 ## Publications
+
+Please refer to my [Google scholar profile](https://scholar.google.com/citations?hl=en&user=3849YpIAAAAJ) for an updated list of all of my publications.
 
 - **A Study of Public Sentiment and Influence of Politics in COVID-19 Related Tweets**
   <br>
@@ -142,5 +152,4 @@ interested in something that is not yet in this list.
 ## Blogs
 
 - I have written a few [blogs](https://iamshnoo.github.io/blog/), mostly during my
-  period as a GSoC student. I always love to hear feedback on my writing. Reach
-  out to me on twitter or anywhere really, and I would love to talk on anything interesting.
+  period as a GSoC student. I always love to hear feedback on my writing :)
